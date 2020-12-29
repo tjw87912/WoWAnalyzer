@@ -229,7 +229,6 @@ class Abilities extends CoreAbilities {
         category: Abilities.SPELL_CATEGORIES.HIDDEN,
         gcd: null,
       },
-	  
 	    // Covenant (move these if needed)
       {
         spell: SPELLS.ELYSIAN_DECREE,
